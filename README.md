@@ -2,11 +2,10 @@
 
 # dotfiles
 
-## VS Code
+## Files
 
-- DEFAULT-vscode-settings.json
-- MY-vscode-settings.json
-
-## ESLINT
-
-- eslintrc.json
+- vscode
+  - my-snippet.code-snippets
+- eslintrc.js
+- prettier.js
+- gitignore
