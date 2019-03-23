@@ -1,0 +1,15 @@
+{
+  "React_Component": {
+    "prefix": "rcomp",
+    "body": [
+      "import React, { Component } from 'react';",
+      "",
+      "class $name extends Component{",
+      "\trender(){$0}",
+      "}",
+      "",
+      "export default $name;"
+    ],
+    "description": "React Component"
+  }
+}
